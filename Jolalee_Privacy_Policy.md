@@ -2,9 +2,9 @@
 
 **Last Updated:** 17 November 2025
 
-Thank you for using our Telugu Rhymes App for Kids ("the App"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your information.
+Thank you for using our Telugu Rhymes App for Kids ("Jolalee"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your information.
 
-By using the App, you agree to the terms outlined in this Privacy Policy.
+By using this App, you agree to the terms outlined in this Privacy Policy.
 
 ---
 
@@ -118,8 +118,8 @@ Continued use of the App after changes constitutes acceptance of the updated pol
 
 If you have any questions or concerns regarding this Privacy Policy, please contact us:
 
-**Email:** [support@example.com](mailto:support@example.com) (Replace with your email)
+**Email:** [cbcreationscorp@gmail.com](mailto:cbcreationscorp@gmail.com)
 
 ---
 
-**Thank you for using our Telugu Rhymes App for Kids!**
+**Thank you for using Jolalee!**
